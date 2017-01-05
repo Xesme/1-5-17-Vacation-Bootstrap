@@ -1,0 +1,34 @@
+body {
+  font-family: 'Bitter', serif;
+}
+h2{
+  text-align: center;
+}
+
+li {
+  list-style-type: none;
+  text-align: left;
+}
+
+.row img {
+  width: 100%;
+  height: auto;
+  border-radius: 10%;
+}
+.jumbotron {
+  background-color: #fff;
+  text-align: center;
+}
+
+.jumbotron img {
+  width: 5%;
+  height: auto;
+}
+
+p {
+
+}
+
+blockquote {
+background-color: gainsboro;
+}
